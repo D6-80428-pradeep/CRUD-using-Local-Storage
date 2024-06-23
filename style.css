@@ -1,0 +1,33 @@
+
+body {
+  background: url('background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container {
+  background-color: transparent;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.text-white {
+  color: white;
+  background-color: transparent;
+}
+
+.table-bordered {
+  background-color:transparent;
+  border: 1px solid white;
+}
+
+.table-bordered th, .table-bordered td {
+  color: white;
+  border: 1px solid white;
+  background-color: transparent;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
